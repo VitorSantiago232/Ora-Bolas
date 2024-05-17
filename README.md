@@ -22,25 +22,19 @@ O "Ora Bolas" é um projeto desenvolvido para simular o movimento de um robô em
 
 ## **Instruções de Uso**
 
-1. Clone o repositório do GitHub:
-
-```bash
-git clone https://github.com/seu_usuario/seu_repositorio.git
-```
-
-2. Navegue até o diretório do projeto:
+1. Navegue até o diretório do projeto:
 
 ```bash
 cd ora-bolas
 ```
 
-3. Execute o menu de opções:
+2. Execute o menu de opções:
 
 ```bash
 python main.py
 ```
 
-4. Escolha a opção desejada e siga as instruções.
+3. Escolha a opção desejada e siga as instruções.
 
 ## **Exemplos de Uso**
 
